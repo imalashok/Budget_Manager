@@ -1,0 +1,4 @@
+601.36
+Clothes;Pants ;15.5
+Entertainment;Entertainment Party;333.14
+Other;lost money;50.0

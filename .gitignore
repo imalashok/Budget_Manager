@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Budget Manager/task/build/
+/Budget Manager/task/out/
+/Budget Manager/task/out/production/classes/
+/Problems/Descending sorting swaps/out/
+/Problems/Descending sorting swaps/out/production/classes/
+/Problems/Swaps/out/
+/Problems/Swaps/out/production/classes/
